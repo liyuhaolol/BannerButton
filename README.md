@@ -12,7 +12,7 @@
 
 viewpager里嵌套一个gradview，使用gridview来动态的加载item
 
-![Github](https://github.com/liyuhaolol/BannerButton/blob/master/pic/02.jpg)
+<div><img src='https://github.com/liyuhaolol/BannerButton/blob/master/pic/02.jpg' width="500px"/></div>
 
 ## English
 
@@ -24,7 +24,7 @@ Instead of using the layout of the other framework, the control to write dead ca
 
 ### structure
 
-![Github](https://github.com/liyuhaolol/BannerButton/blob/master/pic/01.jpg)
+<div><img src='https://github.com/liyuhaolol/BannerButton/blob/master/pic/01.jpg' width="487px"/></div>
 
 viewpager bottom put a linearlayout, for load the indicator
 
