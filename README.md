@@ -6,7 +6,9 @@
 
 ### 结构介绍
 
-![Github](https://github.com/liyuhaolol/BannerButton/blob/master/pic/01.jpg)
+    <div class='row'>
+        <img src='https://github.com/liyuhaolol/BannerButton/blob/master/pic/01.jpg' width="487px"/>
+    </div>
 
 在viewpager底部放置一个linearlayout，用来加载页签指示器。
 
